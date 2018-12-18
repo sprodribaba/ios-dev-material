@@ -14,6 +14,8 @@ This repo contains documents, tutorials and demos for mastering iOS Development.
 
 [Create Simple App in Objective C](https://www.raywenderlich.com/3114-ios-tutorial-how-to-create-a-simple-iphone-app-part-1-3)
 
+[Segues](https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/UsingSegues.html)
+
 ## UI
 
 [Auto Layout](https://www.raywenderlich.com/443-auto-layout-tutorial-in-ios-11-getting-started)
@@ -32,6 +34,8 @@ This repo contains documents, tutorials and demos for mastering iOS Development.
 [KVO](https://nshipster.com/key-value-observing/)
 
 [Broadcasting](https://medium.com/ios-os-x-development/broadcasting-with-nsnotification-center-8bc0ccd2f5c3)
+
+[MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
 
 
 ## Storage
@@ -61,6 +65,8 @@ This repo contains documents, tutorials and demos for mastering iOS Development.
 [Basic Debugging in Xcode](https://medium.com/yay-its-erica/xcode-debugging-with-breakpoints-for-beginners-5b0d0a39d711)
 
 [App Store Submission](https://code.tutsplus.com/tutorials/how-to-submit-an-ios-app-to-the-app-store--mobile-16812)
+
+[Objective C <-> Swift Cheat Sheet](https://www.hackingwithswift.com/articles/114/objective-c-to-swift-conversion-cheat-sheet)
 
 
 
