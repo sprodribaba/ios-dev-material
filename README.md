@@ -84,6 +84,8 @@ Concurrency [Code](https://github.com/iosbrain/Concurrency---ObjC) / [Tutorial](
 
 Local Notifications [Code](https://github.com/ioscreator/ioscreator/tree/master/iOS7LocalNotificationTutorial) / [Tutorial](https://www.ioscreator.com/tutorials/local-notifications-ios7)
 
+Blocks [Code](https://github.com/iosbrain/Blocks-in-Objective-C) / [Tutorial](http://iosbrain.com/blog/2017/02/12/make-blocks-closures-your-friend-objective-c/)
+
 ## Swift Examples
 
 Simple Calculator [Code](https://github.com/ioscreator/ioscreator/tree/master/IOS8SwiftCalculatorTutorial) / [Tutorial](https://www.ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift)
@@ -95,6 +97,8 @@ Delegation [Code](https://github.com/iosbrain/Delegation-In-Swift) / [Tutorial](
 Concurrency [Code](https://github.com/iosbrain/Concurrency-Starter-for-Swift-4) / [Tutorial](http://iosbrain.com/blog/2018/03/07/concurrency-in-ios-serial-and-concurrent-queues-in-grand-central-dispatch-gcd-with-swift-4/)
 
 Local Notifications [Code](https://github.com/ioscreator/ioscreator/tree/master/IOS10LocalNotificationTutorial) / [Tutorial](https://www.ioscreator.com/tutorials/local-notification-tutorial-ios10)
+
+Closures [Code](https://github.com/iosbrain/Closures-in-Swift-3) / [Tutorial](http://iosbrain.com/blog/2017/02/14/make-swift-3-closures-your-friend/)
 
 
 
