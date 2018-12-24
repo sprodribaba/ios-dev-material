@@ -70,17 +70,31 @@ This repo contains documents, tutorials and demos for mastering iOS Development.
 
 [Swift Course](https://www.hackingwithswift.com/read)
 
+-----------------------
+
 ## Objective C Examples
 
 Simple Calculator [Code](https://github.com/ioscreator/ioscreator/tree/master/SimpleCalculator) / [Tutorial](https://www.ioscreator.com/tutorials/simple-calculator?fbclid=IwAR2RuB2aVA7FjVHH4AYYMdRDXicon1rO5Run6f-9j0wyescKBg4Hp3SWwZo)
 
 Food Tracker [Code](https://github.com/AndreVarandas/FoodTracker-Objective-C) / [Tutorial (Swift)](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 
+Delegation [Code](https://github.com/iosbrain/Delegation-In-ObjC) / [Tutorial](http://iosbrain.com/blog/2018/02/01/tutorial-delegates-and-delegation-in-objective-c/)
+
+Concurrency [Code](https://github.com/iosbrain/Concurrency---ObjC) / [Tutorial](http://iosbrain.com/blog/2017/02/06/concurrency-in-ios-queues-and-other-definitions-in-grand-central-dispatch-gcd-with-swift-3/)
+
+Local Notifications [Code](https://github.com/ioscreator/ioscreator/tree/master/iOS7LocalNotificationTutorial) / [Tutorial](https://www.ioscreator.com/tutorials/local-notifications-ios7)
+
 ## Swift Examples
 
 Simple Calculator [Code](https://github.com/ioscreator/ioscreator/tree/master/IOS8SwiftCalculatorTutorial) / [Tutorial](https://www.ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift)
 
 Food Tracker [Code](https://github.com/Mokolea/FoodTracker) / [Tutorial](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
+
+Delegation [Code](https://github.com/iosbrain/Delegation-In-Swift) / [Tutorial](http://iosbrain.com/blog/2018/02/05/tutorial-delegates-and-delegation-in-swift-4/)
+
+Concurrency [Code](https://github.com/iosbrain/Concurrency-Starter-for-Swift-4) / [Tutorial](http://iosbrain.com/blog/2018/03/07/concurrency-in-ios-serial-and-concurrent-queues-in-grand-central-dispatch-gcd-with-swift-4/)
+
+Local Notifications [Code](https://github.com/ioscreator/ioscreator/tree/master/IOS10LocalNotificationTutorial) / [Tutorial](https://www.ioscreator.com/tutorials/local-notification-tutorial-ios10)
 
 
 
