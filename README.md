@@ -72,11 +72,15 @@ This repo contains documents, tutorials and demos for mastering iOS Development.
 
 ## Objective C Examples
 
-[Simple Calculator Code](https://github.com/ioscreator/ioscreator/tree/master/SimpleCalculator) / [Simple Calculator Tutorial](https://www.ioscreator.com/tutorials/simple-calculator?fbclid=IwAR2RuB2aVA7FjVHH4AYYMdRDXicon1rO5Run6f-9j0wyescKBg4Hp3SWwZo)
+Simple Calculator [Code](https://github.com/ioscreator/ioscreator/tree/master/SimpleCalculator) / [Tutorial](https://www.ioscreator.com/tutorials/simple-calculator?fbclid=IwAR2RuB2aVA7FjVHH4AYYMdRDXicon1rO5Run6f-9j0wyescKBg4Hp3SWwZo)
+
+Food Tracker [Code](https://github.com/AndreVarandas/FoodTracker-Objective-C) / [Tutorial (Swift)](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 
 ## Swift Examples
 
-[Simple Calculator Code](https://github.com/ioscreator/ioscreator/tree/master/IOS8SwiftCalculatorTutorial) / [Simple Calculator Tutorial](https://www.ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift)
+Simple Calculator [Code](https://github.com/ioscreator/ioscreator/tree/master/IOS8SwiftCalculatorTutorial) / [Tutorial](https://www.ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift)
+
+Food Tracker [Code](https://github.com/Mokolea/FoodTracker) / [Tutorial](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 
 
 
