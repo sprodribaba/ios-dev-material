@@ -4,6 +4,8 @@ This repo contains documents, tutorials and demos for mastering iOS Development.
 
 ## Basics
 
+[Intro](https://courses.cs.ut.ee/MTAT.03.262/2015_fall/uploads/Main/L5_iOS.pdf?fbclid=IwAR2A1DZqkKLWzoPjHv78Tqsp39oWuvj8-F-euLdA9CI6SJaiFcubSEDSToY)
+
 [Objective C Syntax Overview](https://github.com/sprodribaba/ios-dev-material/blob/master/Basics.pdf)
 
 [Xcode](https://codewithchris.com/xcode-tutorial/)
@@ -68,7 +70,15 @@ This repo contains documents, tutorials and demos for mastering iOS Development.
 
 [Objective C <-> Swift Cheat Sheet](https://www.hackingwithswift.com/articles/114/objective-c-to-swift-conversion-cheat-sheet)
 
-[Swift Course](https://www.hackingwithswift.com/read)
+## Courses
+
+[Udemy - Swift & Objective C](https://www.udemy.com/ios-12-xcode-10/)
+
+[HackingWithSwift - Swift](https://www.hackingwithswift.com/read)
+
+[Stanford - Objective C](https://www.youtube.com/playlist?list=PL9qPUrlLU4jSlonxFqhWKBu2c_sWY-mzg)
+
+[Stanford - Swift](https://www.youtube.com/watch?v=71pyOB4TPRE&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) 
 
 ## Style Guides
 
@@ -105,7 +115,3 @@ Concurrency [Code](https://github.com/iosbrain/Concurrency-Starter-for-Swift-4) 
 Local Notifications [Code](https://github.com/ioscreator/ioscreator/tree/master/IOS10LocalNotificationTutorial) / [Tutorial](https://www.ioscreator.com/tutorials/local-notification-tutorial-ios10)
 
 Closures [Code](https://github.com/iosbrain/Closures-in-Swift-3) / [Tutorial](http://iosbrain.com/blog/2017/02/14/make-swift-3-closures-your-friend/)
-
-
-
-
